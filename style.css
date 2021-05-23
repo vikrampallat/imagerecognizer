@@ -1,0 +1,22 @@
+.heading{ 
+    width: 80%;
+    font-size: 25px;
+    
+    
+    }
+    
+    body{
+       background-color: cornflowerblue;
+       color: crimson; 
+    
+    }
+    
+    .name_of_objects{
+        font-size: 20px;
+    }
+    
+    #camera{
+        height: 300px;
+        width: 350px;
+        border: 2px solid white;
+    }
